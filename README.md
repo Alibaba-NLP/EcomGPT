@@ -5,7 +5,7 @@
 >In this work, **we proposed the first E-commerce instruction dataset EcomInstruct, with a total of 2.5 million instruction data**. EcomInstruct scales up the data size and task diversity by constructing **atomic tasks with E-commerce basic data types**, such as product information, user reviews. Atomic tasks are defined as intermediate tasks implicitly involved in solving a final task, which we also call Chain-of-Task tasks. We developed EcomGPT with different parameter scales by training the backbone model BLOOMZ with the EcomInstruct. **Benefiting from the fundamental semantic understanding capabilities acquired from the Chain-of-Task tasks, EcomGPT exhibits excellent zero-shot generalization capabilities.**
 
 <div align="center">
-    <img src="./IMG/method.pdf" width="60%" height="auto" />
+    <img src="https://github.com/Alibaba-NLP/EcomGPT/tree/main/IMG/method.pd" width="60%" height="auto" />
 </div>
 
 
