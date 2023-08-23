@@ -1,0 +1,12 @@
+EN-Lenovo-NER-NER
+ZH-MEPAVE-NER-attribute_value_extraction
+EN-Lenovo-Condition_Extract-Condition_Extract
+ZH-MEPAVE-Condition_Extract-attribute_value_detection
+ZH-Multi_CPR-Extract-product_select_2
+EN-Reddit_QA-Extract-Extract_QA
+ZH-OpenBG_Align-Generate-title_generate
+ZH-OpenBG_Align-CLS-item_align
+ZH-OpenBG_Align-CLS-title_attribute_matching
+ZH-OpenBG_Align-CLS-item_coarse_classify
+ZH-OpenBG_Align-CLS-item_fine_classify
+EN-ABSA-CLS-review_topic_category

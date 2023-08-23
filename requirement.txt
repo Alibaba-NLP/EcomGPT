@@ -1,0 +1,14 @@
+torch==2.0.0
+torchdata
+torchvision
+torchaudio
+numpy
+rouge_score
+fire
+openai
+transformers==4.27.4
+sentencepiece
+tokenizers==0.12.1
+wandb
+seqeval
+rouge
