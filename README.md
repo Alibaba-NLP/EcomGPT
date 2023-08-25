@@ -1,5 +1,6 @@
 <div align="center">
 <img src="IMG/logo.jpg" width="55%">
+</div>
 
 # An Instruction-Following Large Language Model For E-commerce
 
