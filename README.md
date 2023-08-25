@@ -1,13 +1,27 @@
-# EcomGPT
+<div align="center">
+<img src="IMG/logo.jpg" width="55%">
+
+# An Instruction-Following Large Language Model For E-commerce
+
 ![](https://img.shields.io/badge/version-1.0.0-blue)[![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](https://pytorch.org/)[![arxiv badge](https://img.shields.io/badge/arxiv-2308.06966-red)](https://arxiv.org/pdf/2308.06966.pdf)
 
-- Repo for [*EcomGPT: Instruction-tuning Large Language Models with Chain-of-Task Tasks for E-commerce*](https://arxiv.org/pdf/2308.06966)
->In this work, **we proposed the first E-commerce instruction dataset EcomInstruct, with a total of 2.5 million instruction data**. EcomInstruct scales up the data size and task diversity by constructing **atomic tasks with E-commerce basic data types**, such as product information, user reviews. Atomic tasks are defined as intermediate tasks implicitly involved in solving a final task, which we also call Chain-of-Task tasks. We developed EcomGPT with different parameter scales by training the backbone model BLOOMZ with the EcomInstruct. **Benefiting from the fundamental semantic understanding capabilities acquired from the Chain-of-Task tasks, EcomGPT exhibits excellent zero-shot generalization capabilities.**
+Repo for [*EcomGPT: Instruction-tuning Large Language Models with Chain-of-Task Tasks for E-commerce*](https://arxiv.org/pdf/2308.06966)
+
+- **we proposed the first E-commerce instruction dataset EcomInstruct, with a total of 2.5 million instruction data**.
+- EcomInstruct scales up the data size and task diversity by constructing **atomic tasks with E-commerce basic data types**, such as product information, user reviews. Atomic tasks are defined as intermediate tasks implicitly involved in solving a final task, which we also call Chain-of-Task tasks. 
+- We developed EcomGPT by training the backbone model BLOOMZ with the EcomInstruct. **Benefiting from the fundamental semantic understanding capabilities acquired from the Chain-of-Task tasks, EcomGPT exhibits excellent zero-shot generalization capabilities.**
 
 <div align="center">
-    <img src="https://github.com/Alibaba-NLP/EcomGPT/blob/main/IMG/method.jpg" width="60%" height="auto" />
+    <img src="IMG/method.jpg" width="60%" height="auto" />
 </div>
 
+## Perfomance
+
+We perform a human evaluation on EcomGPT and ChatGPT using 12 E-commerce held-out datasets. EcomGPT outperforms or tied ChatGPT on 12 datasets.
+
+<div align="center">
+<img src="IMG/performance.jpg" width="300">
+</div>
 
 ## Dependencies
 ```bash
@@ -76,6 +90,9 @@ python eval.py -tf ./test_tasks.txt -m [model name or path] -sn [result file nam
 - Open Source Weight of EcomGPT
 
 ## Citation
+
+If you found this work useful, consider giving this repository a star and citing our paper as followed:
+
 ```bigquery
 @article{li2023ecomgpt,
   title={EcomGPT: Instruction-tuning Large Language Models with Chain-of-Task Tasks for E-commerce},
@@ -84,4 +101,3 @@ python eval.py -tf ./test_tasks.txt -m [model name or path] -sn [result file nam
   year={2023}
 }
 ```
-
