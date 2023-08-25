@@ -16,7 +16,7 @@ Repo for [*EcomGPT: Instruction-tuning Large Language Models with Chain-of-Task 
     <img src="IMG/method.jpg" width="60%" height="auto" />
 </div>
 
-## Perfomance
+## 💡 Perfomance
 
 We perform a human evaluation on EcomGPT and ChatGPT using 12 E-commerce held-out datasets. EcomGPT outperforms or tied ChatGPT on 12 datasets.
 
@@ -24,7 +24,7 @@ We perform a human evaluation on EcomGPT and ChatGPT using 12 E-commerce held-ou
 <img src="IMG/performance.jpg" width="300">
 </div>
 
-## Dependencies
+## 🛠 Dependencies
 ```bash
 pip install -r requirement.txt
 ```
@@ -39,10 +39,10 @@ pip install -r requirement.txt
 
 
 
-## Model
+## 💻 Model
 The EcomGPT (7b1) will be available at [*ModelScope*](https://github.com/modelscope). 
 
-## Dataset (EcomInstruct)
+## 📚 Dataset (EcomInstruct)
 
 We first open source 12 evaluation datasets. To ensure evaluation efficiency, each evaluation dataset is sampled with only 500 instances.
 
@@ -78,7 +78,7 @@ The dataset files **satisfy the following file hierarchy**:
             └── test.json
 ```
 
-## Evaluation
+## 🔍 Evaluation
 
 One can evaluate the performance of EcomGPT with the following command：
 
@@ -86,11 +86,11 @@ One can evaluate the performance of EcomGPT with the following command：
 python eval.py -tf ./test_tasks.txt -m [model name or path] -sn [result file name] -bdd [base dataset dir]
 ```
 
-## TODO
+## 🔥 TODO
 
 - Open Source Weight of EcomGPT
 
-## Citation
+## 📄 Citation
 
 If you found this work useful, consider giving this repository a star and citing our paper as followed:
 
