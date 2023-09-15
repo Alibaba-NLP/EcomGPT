@@ -1,0 +1,23 @@
+{
+    "task": "ZH-OpenBG_Align-GLS-title_attribute_matching",
+    "defi": "title attribute matching",
+    "provider": "395566",
+    "version": "1",
+    "label_set": {
+        "en": [
+            "not match",
+            "match"
+        ],
+        "zh": [
+            "不匹配",
+            "匹配"
+        ]
+    },
+    "label_key": "en",
+    "test_prompt1": {"instruction": "输入: {sentences}\n分类: {label_set}\n输出:"},
+    "test_prompt": {"instruction": "### Instruction:\n{sentences}\nDetermine whether the product title and attributes match. Candidate: {label_set}. \n### Response:"},
+    "train_prompt": {"instruction": "Determine if product title and attribute match. Candidate: {label_set}.",
+            "input": "{sentences}",
+            "output": "{labels}"},
+    "label_sep": ", "
+}

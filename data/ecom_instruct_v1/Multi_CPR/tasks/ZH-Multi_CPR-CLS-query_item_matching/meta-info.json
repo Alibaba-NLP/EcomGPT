@@ -1,0 +1,18 @@
+{
+    "task": "ZH-Multi_CPR-CLS-query_item_matching",
+    "defi": "query item matching",
+    "test_prompt": {"instruction": "### Instruction:\n{sentences}\nDetermine if query and doc match. Candidate: {label_set}. \n### Response:"},
+    "version": "1",
+    "label_set": {
+        "en": [
+            "not match",
+            "match"
+        ],
+        "zh": [
+            "不匹配",
+            "匹配"
+        ]
+    },
+    "label_key": "en",
+    "label_sep": ", "
+}

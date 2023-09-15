@@ -1,0 +1,500 @@
+{"sentences": "Query: 大落地窗\nDoc: 新豪轩门窗 斯图加特78系统 铝合金窗内开内倒落地窗断桥铝平开窗", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 大落地窗\nDoc: 适用于如影Ronin-S/rs2/rsc2云鹤3S智云专用斯坦尼康专业单手持摄影稳定器马甲双臂三轴减震背心", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 大落地窗\nDoc: 代驾折叠电动车手机机支架电动车手机架导航支架外卖摩托自行车外", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 种花呂线\nDoc: 盆景扦正线矫型攀扎丝种花罗汉松整形吕条线造插不伤Y手修整。;", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 种花呂线\nDoc: 被执行人内蒙古某色某野肉业股份有限公司位于内蒙古自治区包头市", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 种花呂线\nDoc: 冲凉房防滑垫浴室防霉卫生间地垫防水全铺隔水软硅胶漏水干湿分离", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 墙面底漆\nDoc: 多乐士白色乳胶漆通用无添加抗碱防霉乳胶漆室内家用内外墙用底漆", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 墙面底漆\nDoc: 适用美的洗衣机MB65-6000D(S/6000(S/K6000(SZ)K6000(S波轮叶转盘", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 墙面底漆\nDoc: 酸梅膏10倍浓缩商用1000g2瓶汉口老万城酸梅汤家用免煮网红饮品料", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 启辰r50大灯罩\nDoc: 适用于启辰D50大灯罩 12-16款D50前大灯透明灯罩 前灯壳 大灯面罩", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 启辰r50大灯罩\nDoc: 木井方 木工锤柄 实木锤柄 羊角锤柄 木工锤柄 绝缘柄 电木柄", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 启辰r50大灯罩\nDoc: Annzley夏新品黑色漆皮短款钢骨腰封金属圈皮带扣铆钉装饰corset", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 小金桔\nDoc: 海南青金桔小青柠奶茶店原料佐料1斤装45-65个满件包邮新鲜水果", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 小金桔\nDoc: 中国 佩格小猫 转盘滚球摇摇打●自嗨猫玩具●木制铃铛不倒翁 1個", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 小金桔\nDoc: 田园风格欧根纱窗帘绑带珍珠绑绳子少女闺房卧室粉可爱萌妹窗帘扣", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: diy卡包材料包\nDoc: 植鞣牛皮 半成品DIY好货 微瑕 多功能手工真皮卡包 皮套 配记事本", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: diy卡包材料包\nDoc: 靠墙衣帽架入户置物架实木衣架落地挂衣架卧室民宿贴墙进门玄关", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: diy卡包材料包\nDoc: 新美香咖喱牛肉170g*10料理包 冷冻调理包盖浇饭微波快餐外卖", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 约肤深层滋润免蒸发膜\nDoc: 约肤免蒸发膜修护干枯倒膜改善毛躁头发护理水疗顺滑护发素女柔顺", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 约肤深层滋润免蒸发膜\nDoc: 天友马苏里拉芝士碎焗饭披萨配料烘焙原材料拉丝家用芝士条片正品", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 约肤深层滋润免蒸发膜\nDoc: 谷小酒 万里宋境系列 500ml高档礼盒  送礼收藏", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 按摩垫\nDoc: 乐尔康按摩器背部腰部颈椎肩部多功能全身家用电动揉捏仪神器靠垫", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 按摩垫\nDoc: 西屋 WSC-301 多功能料理锅 5L 电热锅电火锅", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 按摩垫\nDoc: BD8030防爆信号灯8030防爆指示灯EXdIICT6 WF2 IP66开孔尺寸30mm", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 预适应训练仪\nDoc: 中频理疗仪治疗器经络疏通腰椎医用家用针灸脉冲电子按摩仪电疗机", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 预适应训练仪\nDoc: 供应定制高精度花生线性定量分装秤全自动粉料颗粒称重包装机", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 预适应训练仪\nDoc: 袋鼠妈妈孕妇牙膏缓解孕吐漱口水牙刷月子用品孕期口腔清洁套装", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 厕所明沟盖板\nDoc: 不锈钢条形格栅排水沟盖板厨房车库下水道地沟雨水篦子现货可定制", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 厕所明沟盖板\nDoc: 夹棉床裙床罩3D刺绣纯色花边1.8m床防滑固定床单公主风床垫保护套", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 厕所明沟盖板\nDoc: 日本狮王电动牙刷呵护型替换刷头磁悬浮SMARTKEY软毛声波充电1盒", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 鉴别真假\nDoc: 专业化妆品真假鉴定辨别口红护肤品香水精华水面霜真伪", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 鉴别真假\nDoc: 九天家私3D椰棕床垫1.8米软硬两用加厚护脊睡垫席梦思家用经济型", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 鉴别真假\nDoc: 【2020年版】企业会计准则实务操作疑难问题案例详解 财政部企业会计准则培训书籍 会计实务做账实操教程【凤凰新华书店旗舰店】", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 毛衣绿色拼接\nDoc: 撞色针织开衫外套女春秋复古日系慵懒毛衣高级设计感小众短款上衣", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 毛衣绿色拼接\nDoc: H65黄铜管 国标黄铜套 加工直纹网纹 激光冲孔 数控标准切割 20*1", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 毛衣绿色拼接\nDoc: 点烟器款防烧通用型客车货车皮卡面包汽车里程调表器跑表仪跑表器", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 亚克力型材嵌条\nDoc: 铝型材U型槽条 亚克力板嵌条 板材卡条PVC硬质槽6槽8槽10卡条", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 亚克力型材嵌条\nDoc: 正版包邮扰动 力场 弹道导弹飞行力学郑伟 汤国建国防工业出版社9787118062496", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 亚克力型材嵌条\nDoc: 小号亚澳减张贴 舒美邦免缝疤痕拉合儿童面部 胶带胶布防变宽九院", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 短毛纯银熊\nDoc: 特价顺丰包邮家养金丝熊长毛短毛黑熊杂银黑黄波利妹妹软萌可爱", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 短毛纯银熊\nDoc: TC4钛合金棒TC6TC11棒TC18TA2TA15钛棒截定尺可定做钛合金加工", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 短毛纯银熊\nDoc: 传统纸质镂空窗花剪纸踢足球体育运动幼儿园儿童贴纸装饰画中国风", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 树叶沙发椅单\nDoc: 特价布艺单人懒人沙发树叶沙发可爱创意电脑椅小沙发可旋转小户型", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 树叶沙发椅单\nDoc: 亚洲鱼港汉堡鱼排1680g/24枚原味鳕鱼排深海鳕鱼新鲜宝宝鱼堡新品", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 树叶沙发椅单\nDoc: PCB线路板外壳透明盖保护盒接线盒115*85*36透明电气盒板子安装盒", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 凡爱宝贝\nDoc: 宝宝秋衣秋裤婴儿无骨缝A类全棉儿童内衣套装59-120四季纯棉贴身", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 凡爱宝贝\nDoc: 周大生黄金项链足金5G极光金福字牌套链ins风几何叠戴项链送女友", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 凡爱宝贝\nDoc: 【硬核预留】造化工作室 Ver. ～花嫁～蕾塞 1/4", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 海尔洗碗机hwy14-186bku1\nDoc: 海尔洗碗机家用全自动14套嵌入独立一体机智能消毒大容量晶彩13套", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 海尔洗碗机hwy14-186bku1\nDoc: 落地立式小便斗落地便池 男士家用公共便器尿斗 含配件", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 海尔洗碗机hwy14-186bku1\nDoc: Petrus/柏翠 全钢冰淇淋机雪糕机家用全自动自带制冷水果冰激凌机", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 廉邦铁锅\nDoc: 炒锅不粘锅无涂层老式大铁锅平底锅燃气灶电磁炉通用32cm家用锅具", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 廉邦铁锅\nDoc: 电饭煲内胆通用不粘适用于美的格力苏泊尔三角牌奥克斯老式1-5l美", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 廉邦铁锅\nDoc: 正宗江西赣南血橙10斤包邮新鲜当季水果中华红橙脐橙红肉甜橙现摘", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 爱立舍机油滤芯\nDoc: 适配富康爱丽舍16V 307 206 207世嘉 C2博世机油格机油滤清器机滤", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 爱立舍机油滤芯\nDoc: 温州步步高发财树大盆绿植盆栽客厅办公室开业乔迁盆景同城速递", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 爱立舍机油滤芯\nDoc: 集成吊顶暖风浴霸照明灯配件超导面板双核机吊顶LED灯板平板灯", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 德绒内衣男\nDoc: 北极绒保暖内衣男士加厚加绒德无痕抗菌自发热内穿秋衣秋裤套装冬", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 德绒内衣男\nDoc: Meta2 AR全息眼镜 vr一体机 开发者版3D智能MR混合现实头盔VR头显mate", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 德绒内衣男\nDoc: 脏衣篮可折叠家用洗衣机脏衣篓收纳筐子卫生间换洗装衣服桶墙壁.", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: u2底板\nDoc: 官方银河乒乓球拍底板U-2天王星7层纯木U1U2U3直板横板快攻弧圈", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: u2底板\nDoc: 空气净化器除二手烟办公室桌面小型卧室除烟味甲醛吸烟智能净化机", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: u2底板\nDoc: 打捞强磁铁圆形带孔强力磁钢永磁钕铁硼磁铁吸铁石钢套防撞送吊环", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 五福家园山药粉\nDoc: 十年老店金健康铁棍山药营养粉无五糖伍福家园焦作怀淮山药今建慷", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 五福家园山药粉\nDoc: 星海钢琴凯旋K122立式钢琴家用初学教学成人钢琴专业演奏88键", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 五福家园山药粉\nDoc: 指向学科核心素养的普通高中课堂教学设计案例丛书：物理", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 杭州地区印刷品\nDoc: A4A5铜板纸单双面折页宣传单批量印刷DM广告彩页海报画册菜单打印", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 杭州地区印刷品\nDoc: 全自动圆木推台锯原木开料锯木工机械圆盘锯大型圆木推台锯开板锯", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 杭州地区印刷品\nDoc: 户外别墅烧烤炉烧烤桌室内火炉取暖炉炭火盆家用烤火炉户外烧烤架", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 美式台钳\nDoc: 重型钻床美式平口钳台钻专用木工小台钳3寸4寸5寸6寸台虎钳子包邮", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 美式台钳\nDoc: 辽宁移动5元10GB流量包 快手抖音腾讯爱奇艺哔哩哔哩视频流量包年", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 美式台钳\nDoc: 100支A5密胺仿瓷塑料勺子酒店饭店米饭汤粥勺纯白色勺子调羹包邮", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 冬天四件套礼物\nDoc: 入冬四件套创意冬日礼物套装女生惊喜送女友闺蜜平安夜圣诞节diy", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 冬天四件套礼物\nDoc: 正泰 NEW7E 八芯电脑插座 正泰网线面板开关插座 86型网络插座", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 冬天四件套礼物\nDoc: 2015年中国航天纪念钞纸币面值100元航天币", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 背景墙吊灯\nDoc: Zoxy 北欧花盆中古小吊灯 马卡龙玄关过道床头包豪斯餐厅ins吊灯", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 背景墙吊灯\nDoc: 全自动麻将机用麻将牌 家用四口正磁中号40 42 44号四川麻将108张", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 背景墙吊灯\nDoc: 加厚镀锌铁锁扣焊接铁门木门大门直角对扣门鼻子家用门用配件拉手", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 碗柜收纳多功能放碗\nDoc: 厨房储物柜防蟑螂碗柜家用置物柜子欧式简易橱柜铝合金经济型厨柜", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 碗柜收纳多功能放碗\nDoc: 广州爵士机架音响灌沙纯天然减震铁砂黑金砂脚架填充砂防震砂避震", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 碗柜收纳多功能放碗\nDoc: A型加鱼尾混合装假睫毛a字超自然仿真单簇仙子假睫毛自己接", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 鳄龟爆刺凶猛\nDoc: 大鳄龟活体大乌龟活体宠物龟观赏龟钓鱼龟深水龟佛鳄龟刺鳄真鳄龟", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 鳄龟爆刺凶猛\nDoc: 大理石台面岩板定做异形石材加工圆形方形吧台Q茶几餐桌面定制板", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 鳄龟爆刺凶猛\nDoc: 便携土壤湿度检测仪参数速测仪土壤温湿度传感器多合一水分记录仪", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 吉莫特洗鼻器\nDoc: 新品吉莫特洗鼻专用洗鼻盐 医生推荐儿童成人洗鼻瑜伽洗鼻盐60包", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 吉莫特洗鼻器\nDoc: /桨板sup成人站立式划水板专业冲浪浆板滑水硬板", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 吉莫特洗鼻器\nDoc: 龙混山杏干偏酸阳高杏脯山西特产无核添加果脯果干天然杏肉孕妇", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 绿水鬼毛线\nDoc: 王源同款成品手工DIY毛线手表水鬼绿大表盘男表个性超酷女表编织", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 绿水鬼毛线\nDoc: 纳米拆发钳子 超声波卸发专用拆发夹子 无痕接发贴片专用钳子工具", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 绿水鬼毛线\nDoc: 免穿文胸 哺乳衣上衣春秋外出时尚产后喂奶衣打底衫秋冬装哺乳t恤", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 橙色玻璃胶\nDoc: 彩色玻璃胶闪金银玫瑰金红黄橙绿蓝棕咖啡粉红色电信高光黄结构胶", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 橙色玻璃胶\nDoc: 医院推车垃圾桶 抢救车小垃圾桶杂物桶带盖治疗车配件 急救车配件", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 橙色玻璃胶\nDoc: 刷牙杯子家用一家三口高颜值漱口杯ins风牙具套装轻奢牙缸牙具杯", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 火花塞 单铂金\nDoc: 博世铂金火花塞北汽幻速S3S2H2H3绅宝D50 E130 150威旺M20BJ20 40", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 火花塞 单铂金\nDoc: 新款僧衣僧装加绒长袖卫衣喇嘛僧服和尚居士服男士秋冬加厚打底衫", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 火花塞 单铂金\nDoc: 葫芦丝教学视频一对一真人在线指导零基础入门教学直播", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 银行合作牌匾\nDoc: 三等功牌匾定制金箔奖牌定做荣誉加盟特约经代理销商木质授权定做", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 银行合作牌匾\nDoc: 博士伦博视顿先进硬性透气角膜塑性10ml*4隐形眼镜近视rgp润滑液", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 银行合作牌匾\nDoc: Q2破码王对讲机解码器读频器自动测频仪数字/模拟哑音JK560测频器", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 可折叠旅行包\nDoc: 运动旅行包女短途行李包健身大容量手提旅游包轻便防水待产收纳包", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 可折叠旅行包\nDoc: 尚格森智能镜壁挂浴室镜洗手卫生间LED灯圆镜发光防雾触屏化妆镜", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 可折叠旅行包\nDoc: 正宗中江丹参500g中药材 四川丹参片 丹参泡茶水散装可磨丹参粉", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 秋滋堂保健品专营店\nDoc: 组合装 麦金利钙铁锌", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 秋滋堂保健品专营店\nDoc: 圣托玛斯马桶水箱配件上水器 下水器 扳手连体座便器进水阀冲水阀", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 秋滋堂保健品专营店\nDoc: 德语专业八级听力全攻略(修订版)彭彧 德语专八听力历年真题分析复习方法解题技巧德语专8听力模拟试题同济大学出版社德语考试德国", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: zippo招财进宝24k金\nDoc: zippo打火机正版美国原装品防风招财进宝镀24k金银煤油芝宝zppo", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: zippo招财进宝24k金\nDoc: 润本爽身粉新生儿婴幼儿松花玉米痱子粉宝宝专用粉扑儿童去热止痒", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: zippo招财进宝24k金\nDoc: 。单车多功灯卡夹山地p音响架灯座车把车前灯强光能扣骑行灯架手", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 风热感冒颗粒西安\nDoc: 必能 抗感解毒颗粒(无蔗糖) 10袋 风热感冒发热口渴咽喉肿痛", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 风热感冒颗粒西安\nDoc: 《贾宁财务讲义:人人都需要的财务思维》 像财务高手一样思考问题 罗辑思维", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 风热感冒颗粒西安\nDoc: ACA/北美电器 AC-E15D/EJ12C咖啡机三耳手柄漏斗/压力过滤网 粉碗", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 飞利浦80w木雅吸顶灯\nDoc: 飞利浦PHILIPS吸顶灯 木雅60瓦", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 飞利浦80w木雅吸顶灯\nDoc: 圣斗士星矢 冥斗士108魔星 地凶星", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 飞利浦80w木雅吸顶灯\nDoc: 全自动火锅底料炒料机做凉粉机器辣椒酱搅拌翻炒锅熬酱机商用小型", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 小飞燕辅助器\nDoc: 小燕飞拉伸器拉力带拉力器脚蹬女瑜伽神器仰卧起坐辅助家用瘦肚子", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 小飞燕辅助器\nDoc: 花园装饰佛像摆件庭院布置景观禅意睡佛中式别墅园艺户外露台院子", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 小飞燕辅助器\nDoc: 瑜伽辅助四分之一圆木弧形坡形辅助实木砖松木HX原木色四分之一圆", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 轻奢莫品\nDoc: 练字专用褪色笔芯（6支装） 字迹自动消失", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 轻奢莫品\nDoc: 彩色硬纸筒卷纸芯纸管 创意手工diy益智绘画材料教室走廊环境布置", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 轻奢莫品\nDoc: 日本正品代购直邮snowpeak雪峰户外露营 防潮垫 防污垫BD043", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 懒猫总司\nDoc: 懒猫外设 冲田总司键帽 saber 二次元动漫五面热升华PBT键帽", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 懒猫总司\nDoc: 新品k。工棉毛毡条j无尘布暖x房s黑心业除渗防草土工布养护抗寒整", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 懒猫总司\nDoc: 【棒球魂】全牛皮捕手成人垒球棒球手套内野捕手套美规即战力", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 刹车油电动车\nDoc: 电动车刹车泵排空气工具电瓶车上下泵管摩托车碟刹泵换油抽油工具", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 刹车油电动车\nDoc: 打井设备钻井机 家用电动升降水井钻机 全自动打井机钻杆钻头配件", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 刹车油电动车\nDoc: 星星东宝冰柜220升商用大容量冷藏冷冻转换平面玻璃门雪糕冷冻柜", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 书法教室墙贴写真\nDoc: 小学生儿童正确坐姿握笔姿势家规家训十条学习教室墙贴画挂图贴纸", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 书法教室墙贴写真\nDoc: 生活家装饰 全包装修设计效果图施工服务房屋室内整装公司 重庆", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 书法教室墙贴写真\nDoc: 漫唯姿双层光腿神器高个子加绒加长假透肉肤色肉色丝袜连裤打底裤", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 美国第二代碎水杯\nDoc: John Smith碎水杯抗氧化负离子小分子水杯弱碱性富氢水素保温杯子", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 美国第二代碎水杯\nDoc: Baleno班尼路urban男装v男装青年西装修身外套西服商务85636502", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 美国第二代碎水杯\nDoc: 现货三丰内径百分表量表千分表表杆盲孔511-437/415/401/412/包邮", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 影巨人a60\nDoc: HALFSun/影巨人 KS-A60复古无线手机蓝牙音箱小钢炮迷你重低音炮", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 影巨人a60\nDoc: 乳木果安睡裤姨妈裤夜用卫生裤女夜安裤裤型卫生巾安心裤", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 影巨人a60\nDoc: 21年11月产喜多多钙奶椰果乳味 200克15罐装 椰果粒儿童饮料礼盒", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 暖气进水管滤网\nDoc: 304不锈钢过滤网筒不锈钢304过滤网筒 Y型分水器滤芯 地暖地热管", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 暖气进水管滤网\nDoc: ochirly欧时力春装腰带直筒宽松纸袋裤女休闲显瘦1RY1060380", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 暖气进水管滤网\nDoc: P型齿链式无级变速器 1:6PIV纺织机无级变速箱 P1.P2.P3.P4.P5.p6", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 恩姆花园爽身液\nDoc: .恩姆花园广藿香舒痱原液新生婴儿宝宝液体去痱子粉爽身止痒 120m", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 恩姆花园爽身液\nDoc: 安徽省阜阳市颖上县慎城镇102省道南侧能源办西侧北楼11间商", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 恩姆花园爽身液\nDoc: 绝版磁带全新未拆 五月天金曲精选 随身听磁带录音机卡带珍藏", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 鱼珠牌万能胶快干型\nDoc: 胶粘剂牌胶木木板pc珠环保鱼珠胶胶胶水板强力鱼万能胶工金属皮革", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 鱼珠牌万能胶快干型\nDoc: 环球国家地理绘本全11册儿童启蒙认知科普百科3-9岁 小板牙", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 鱼珠牌万能胶快干型\nDoc: 3M医用胶带宜拉透气弹性棉柔宽胶布胃管鼻饲管贴手裂口愈合膏胶布", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 化氏极细袖\nDoc: 化氏暴力袖无倒刺纤细袖高碳钢钩渔具垂钓用品配件钓竞技黑坑鱼钩", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 化氏极细袖\nDoc: 乐体控气泡茶0糖0脂肪高纤维长岛冰红茶瓶果茶饮料柠檬茶400ml*15", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 化氏极细袖\nDoc: 正品久保利弯刀 香蕉刀茶叶刀菠萝刀割菜刀进口农用水果刀具", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 鸡胸碎肉\nDoc: 新鲜冷冻益客带皮鸡碎肉胸肉块碎鸡肉食堂快餐整箱20斤江浙沪包邮", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 鸡胸碎肉\nDoc: 亮友 头虱花露水 儿童成人  除虱子花露水 1瓶装全国包邮", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 鸡胸碎肉\nDoc: 特价饰晖大功率工业热风幕机价格 离心式风幕机商超用 加热风帘机", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 蒙迪欧车模\nDoc: 福特蒙迪欧/致胜/金牛座专用全车密封条车门隔音条汽车防尘胶条", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 蒙迪欧车模\nDoc: 乐高积木墙黑板墙二合一大颗粒儿童益智拼装玩具墙面家用壁挂式", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 蒙迪欧车模\nDoc: 通用爆闪灯支架 双面 四面双面爆闪灯支架可伸缩", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 尼泊尔大金刚八瓣\nDoc: 新款尼泊尔大金刚菩提子手串原籽爆满肉黄红皮五八瓣男士文玩念珠", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 尼泊尔大金刚八瓣\nDoc: 甄嬛传古装爱情权谋电视剧全集光盘流畅不卡 孙俪 陈建斌DVD碟片", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 尼泊尔大金刚八瓣\nDoc: 室外烟灰缸不锈钢烟蒂收集器烟头垃圾桶吸烟亭专用烟蒂灭烟桶大号", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 尚为智能护眼台灯\nDoc: 。视为AAA级护眼台灯LED小尚生学习F儿童宿舍专用书桌写字台灯保", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 尚为智能护眼台灯\nDoc: 95寸精品国画工笔花鸟虫草扇面 蜻蜓图 其他尺寸可定制", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 尚为智能护眼台灯\nDoc: 儿童圣诞伴手礼麋鹿眼镜圣诞啪啪圈积木火车发光戒指节日礼品套盒", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 相机引闪器jinbei\nDoc: 金贝TR-A9数码引闪器 影室灯闪光灯触发器 摄影器材尼康佳能通用", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 相机引闪器jinbei\nDoc: GRAMOVOX格莱美黑胶唱片架LP唱片收纳架黑胶碟片收纳箱CD架收纳盒", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 相机引闪器jinbei\nDoc: 活页A7 B-pocket款-头层牛皮/马臀皮笔记本/手账/记事本皮套/书衣", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 无印良品刷背\nDoc: 日本原装MUJI无印良品长柄洗澡刷子搓澡神器沐浴刷软毛搓背去角质", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 无印良品刷背\nDoc: 无变压器暗装橱柜灯220V led灯条货柜展示柜层板灯柜底板灯嵌入式", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 无印良品刷背\nDoc: 蓝光八卦颈椎病肩周炎腰椎间盘突出治疗仪配件红外发热板电极片", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 新秀丽双肩包tr1\nDoc: 新秀丽双肩背包大开口可折叠TR1*001时尚文艺通勤出游防盗男女", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 新秀丽双肩包tr1\nDoc: 朝阳朝柴4100/4102/4105六配套柴油机四配套配件水冷四冲程", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 新秀丽双肩包tr1\nDoc: 折叠洗车水桶汽车用便携式可伸缩大容量车载好物收缩户外钓鱼专用", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 名著导读配套阅读\nDoc: 初中生语文课外阅读书籍全套十二本朝花夕拾鲁迅原著正版西游记骆驼祥子海底两万里水浒传 部编版七八九年级上下册的课外书", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 名著导读配套阅读\nDoc: 牙签盒商用餐厅饭店酒店牙签桶个性创意可定制logo刻字竹木牙签筒", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 名著导读配套阅读\nDoc: 官方正品YONEX尤尼克斯羽毛球鞋男女SHB88D透气专业减震yy运动鞋", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 做作业定时器小青蛙\nDoc: 写作业计时器流沙漏闹钟时间管理儿童学生学习做题电子钟静音磁吸", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 做作业定时器小青蛙\nDoc: 上海宏顺门窗专业制作斜屋顶阁楼天窗彩光封阳台阳光房断桥铝门窗", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 做作业定时器小青蛙\nDoc: 梅花套筒加长8cm大飞接口套头汽机修专用烙凡钢8&mdash;32整套12角盒装", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 肉猪本地猪\nDoc: 2021新品猪棒骨新鲜带肉猪大骨筒子骨头熬汤土猪肉生鲜炖汤大棒骨", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 肉猪本地猪\nDoc: 罗布麻茶叶精选新疆原产嫩叶罗布麻120g新货搭配桑叶荷叶枸杞泡茶", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 肉猪本地猪\nDoc: SKY ROVER 天虎 UF 15MM 目镜 平场 长出瞳 高清 锐利", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 防串货打字器\nDoc: 啤酒外箱刷码防串货滚码器手w持滚筒滚动防窜货打码机纸箱滚印定", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 防串货打字器\nDoc: 户外军迷青蛙服快插式护膝护肘迷彩服插槽特种兵战术内置插式护具", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 防串货打字器\nDoc: 阿西里西植物蛋白饮料抹茶味核桃乳 240mlX15罐 新独特风味饮品", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 银行付款单\nDoc: 狮合王 银行收款银行付款凭证 现金收款现金付款凭证转帐凭证包邮", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 银行付款单\nDoc: 海尔LE40AL88D88 LE40AL88E31程序 固件 数据 软件 U盘升级包", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 银行付款单\nDoc: 长袖卡通字母印花打底套头INS中长版香港潮牌秋冬新款小熊卫衣女", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 连衣裙女童 潮流风\nDoc: 中式儿童礼服公主裙女童旗袍长袖花童钢琴表演演出晚礼服红色秋冬", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 连衣裙女童 潮流风\nDoc: 椰棕床垫硬垫护脊椎榻榻米垫子家用1.8米双人薄款夏季软垫1.5加厚", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 连衣裙女童 潮流风\nDoc: 基础坚笛8孔坚笛低音竖笛坚笛6孔学生树笛吹奏入门笛子8孔竖笛标", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 高压三相三线电子表\nDoc: 正品华立DTZ545/DSZ535型三相四线智能电能表尖峰谷平/Modbus电表", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 高压三相三线电子表\nDoc: 限量收藏星巴克天猫专属可爱快递绿色环保小熊小推车滚滚油墨印章", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 高压三相三线电子表\nDoc: 【48选3本】别跟自己过不去三吉 调节心态控制情绪的书 调理心态的书 太较真你就输了 成功励志书 少有人走的路 畅销书籍", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 宝马5系獠牙\nDoc: 适用18-21款宝马5系G30 G38 525 530改M540款铈灰色中网进气格栅", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 宝马5系獠牙\nDoc: //宜兴紫砂迷你小茶壶指尖壶小号袖珍茶具茶宠摆件茶道桌面茶盘-", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 宝马5系獠牙\nDoc: 儿童巴拉拉小魔仙长直发假发女甜美可爱齐刘海常温丝时尚整顶假发", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: psv卡带收纳\nDoc: 全新PSV空卡带盒PSVITA游戏卡盒可放封面出口品质可定制封面彩面", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: psv卡带收纳\nDoc: 菠萝格实木防腐木户外扶手栏杆异形河道栈道围栏庭院护栏室外格栅", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: psv卡带收纳\nDoc: 日版金标正品现货 海贼王 pop wa 忍者乔巴卫门 和之国手办 mh", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 北极虾仁\nDoc: （生鲜）山姆超市 北极甜虾仁 1kg 活虾捕捞", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 北极虾仁\nDoc: 原装日本 Oyaide 欧亚德 OR800A V2 喇叭线 叉到叉", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 北极虾仁\nDoc: 飞越真空泵VRD-2/4/8/16/30 VSV-20/40/63/100大学实验室油真空泵", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 小天才儿童电话手机\nDoc: 小才天儿童电话手表4G全网通多功能防水防摔智能gps定位男女孩初高中小学生可视频通话适配华为小米电信手机", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 小天才儿童电话手机\nDoc: HIGOLD/悍高 黑钻拉篮304实心不锈钢厨房橱柜拉篮调味拉篮阻尼", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 小天才儿童电话手机\nDoc: 包邮 男女通款 超纤 松紧带接头 专业马术 长马靴", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 捷欧咖啡\nDoc: 捷欧意大利风味咖啡豆454g 深度烘焙意式低酸浓缩熟豆粉手冲研磨", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 捷欧咖啡\nDoc: 凯乐石户外超高海拔极限攀登男款MONT-WSTP连体羽绒服", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 捷欧咖啡\nDoc: 多功能测电笔电工专用非接触式感应电笔隔墙查断点智能零火线检测", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 7岁宝宝休闲靴子\nDoc: 魔萌兔女童雪地靴儿童公主靴真毛球棉靴2021冬季新款加绒中大童鞋", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 7岁宝宝休闲靴子\nDoc: 护舒宝隐型祛味超薄卫生护垫140mm 40片装日夜用经期透气清爽量多", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 7岁宝宝休闲靴子\nDoc: 家用吸氢机纯氢气呼吸器便携式氢氧机高浓度富氢水机电解水制氢机", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 木制吧台\nDoc: 实木吧台桌家用阳台靠墙高脚桌商用咖啡厅酒吧桌椅长条隔断窄吧台", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 木制吧台\nDoc: 线切割慢走丝沙迪克仿真软驱 软盘转换U盘", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 木制吧台\nDoc: 小众设计感拼接撞色半高领羊毛针织毛衣女宽松百搭假两件长袖上衣", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 尼康z62\nDoc: Nikon/尼康z6ii z7ii二代z6z7全画幅微单机身Z62Z72 2代24-70套机", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 尼康z62\nDoc: CARTIER 卡地亚原装进口手表保证书 保修卡 保卡 真品", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 尼康z62\nDoc: 角铁打孔机便携式液压冲孔机通用玉环索力液压冲孔机开孔器铜铝角", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 座上客香蕉片\nDoc: 金皇牌香蕉干香蕉片4.99kg整箱菲律宾原装进口散装整箱", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 座上客香蕉片\nDoc: 鲜炖燕窝粥燕窝羹五谷粥七日养生即食礼盒装7碗燕窝孕妇送礼新年", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 座上客香蕉片\nDoc: 金喜加厚耐用王洗白铝茶壶特厚水壶老式烧水壶中式提水壶工厂直营", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 改论文格式\nDoc: Word排版目录页眉页脚参考文献调格式WPS改格式人工调整修改目录", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 改论文格式\nDoc: automatic bread yogurt maker programmable 700g machine", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 改论文格式\nDoc: 厂家汇峰电动制动液更换机DS-520压迫式更换刹车油换油设备", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 龙灯爱增美\nDoc: 龙灯统旺50%多菌灵 花生叶斑病月季多肉黑斑白粉纹枯病农药杀菌剂", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 龙灯爱增美\nDoc: 宠物尿垫除臭吸水垫尿片狗训导加厚小号大号猫兔子狗狗用品隔尿垫", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 龙灯爱增美\nDoc: 虾粮黑壳虾水晶虾樱花虾鳌虾观赏虾沉底饲料小龙虾螃蟹专用虾食料", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 防水封边条\nDoc: 厨房防霉防水胶带厨卫防潮灶台水槽封边缝隙马桶条浴室美缝墙角贴", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 防水封边条\nDoc: 专业睫毛夹10件套修眉刀画眉神器卷翘刮眉剪刀挤黑头针粉刺针修眉", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 防水封边条\nDoc: 户外靶心射击靶弹弓靶纸硅胶靶心精准定位靶新款新奇靶包邮", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 战略管理：概念与案例第16版\nDoc: 8053457|现货包邮 战略管理:竞争与全球化(概念)(原书第12版)/战略管理 概念与案例/企业管理入门教材书籍/大学M", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 战略管理：概念与案例第16版\nDoc: 打火机zippo正版美国原装进口芝宝防风煤油火机双面徽章 月下猫思", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 战略管理：概念与案例第16版\nDoc: Bebivita贝唯他进口 水果谷物小熊米饼 宝宝儿童零食 30g*1", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 挖掘机装石斗\nDoc: 拇指夹挖机机抓木掘抓石装夹石料B02机卸夹挖机属具抓斗钩机铲斗", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 挖掘机装石斗\nDoc: 工业高精度漆膜测厚仪涂层油漆喷塑粉护栏镀锌铬层涂料厚度测量仪", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 挖掘机装石斗\nDoc: 润元昌野生古树红茶云南滇红高端茶叶礼品礼盒180克", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: led小夜灯奥特曼\nDoc: 泽塔奥特曼3D立体超人小夜灯儿童床头插电卡通七彩渐变节日礼物灯", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: led小夜灯奥特曼\nDoc: 进口芬兰SUUNTO颂拓KB14精密指南针罗盘罗经仪指北针司南磁针旅行", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: led小夜灯奥特曼\nDoc: 檬族油烟机清洗剂去重油污神器厨房强力清洁剂泡沫油烟净去除油渍", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 喷火枪管子\nDoc: 喷火枪高压防爆管防水施工气管三胶两线防冻橡胶软管6.5mm棉细管", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 喷火枪管子\nDoc: 位元堂 六味地黄丸 滋阴补肾 添精益髓 20包", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 喷火枪管子\nDoc: inwejia魔瓶马桶洁厕凝胶洁厕灵厕所除臭去异味懒人神器清洁剂", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 奶茶咸\nDoc: 奶茶蒙茶馆咸味奶茶内蒙古袋装伊佰速溶冲饮品400g", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 奶茶咸\nDoc: AT越野花AC858汽车轮胎245/70R16配帕拉丁萨普拓路者卡帕杰罗宝威", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 奶茶咸\nDoc: 亚马逊新款产品 宠物垃圾袋收纳包 狗狗便袋分配器 狗屎袋便便包", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 装书礼盒\nDoc: 礼物包装纸礼品纸珠光纸质感送闺蜜礼盒包书纸纪念日礼物包装材料", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 装书礼盒\nDoc: 荳菽电动摇摇杯奶昔杯自动搅拌杯电动便携豆浆摇粉杯代餐粉专用杯", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 装书礼盒\nDoc: 一次性加厚耐磨无纺布鞋套家用室内防水防滑儿童脚套鞋套", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 山东生产的玉米粉碎机\nDoc: 维海新款建新牌粮机碾米机成套加工设备家用商用去石机组合新三型", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 山东生产的玉米粉碎机\nDoc: 高档京胡专业演奏刘梦虎京胡乐器正品紫竹西皮二黄高音特价送配件", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 山东生产的玉米粉碎机\nDoc: 肯趣士多热销汤匙中号耐高温硅胶老人儿童勺子厨房餐饮工具", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 万仁堂关节冷敷贴\nDoc: 万仁堂医用半月板跌打损伤筋骨膝盖疼痛专用药膏风湿类关节痛贴膏", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 万仁堂关节冷敷贴\nDoc: 海南三亚特大黑金刚莲雾应季新鲜水果3斤泰国台湾红宝石现摘包邮", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 万仁堂关节冷敷贴\nDoc: Pt．Charm铂金戒指情侣结婚订婚戒指白金对戒男女款活口PT950戒指", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 超镜磨片\nDoc: 小蚂蚁金刚石超级磨片 石材加工厂专用 不加水 干磨 镜面效果", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 超镜磨片\nDoc: 广场舞服装裤女长裤中低腰莫代尔舞蹈裤运动跳舞宽松微喇练功裤子", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 超镜磨片\nDoc: IU同款韩国代购NEW BALANCE卫衣21秋Ofr联名Polo领纽扣男女nb复古", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 匡威儿童鞋蓝色\nDoc: Converse匡威时尚高帮帆布鞋男女童鞋海蓝色7J233C", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 匡威儿童鞋蓝色\nDoc: 汪苏泷 精品伴奏 有点甜/一笑倾城/万有引力/那个男孩/小星星/耿", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 匡威儿童鞋蓝色\nDoc: 洗衣盆陶瓷台盆阳台不锈钢支架落地洗衣盆卫生间小号单盆深水槽", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 轮滑蜘蛛扣\nDoc: 溜冰鞋平花鞋LABEDA开火轮滑鞋扒扣芭扣扣带能量带夹扣锁扣勾带", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 轮滑蜘蛛扣\nDoc: 鄂尔多斯产半高领羊绒衫女100纯山羊绒三股重磅加厚抽条宽松毛衣", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 轮滑蜘蛛扣\nDoc: 稻田村山楂雪糕 宝宝零食山楂儿童果丹皮儿童果条零食山楂糕糖果", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: gmt地簧弹222\nDoc: 地弹簧GMT N-222地簧顶轴有无框玻璃门配件皇冠222通用型地弹黄", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: gmt地簧弹222\nDoc: 美式棒球帽男女软顶刺绣遮阳帽潮ins运动登山弯檐鸭舌帽防晒遮阳", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: gmt地簧弹222\nDoc: XEME西米C2地面波Dtmb标准高清无线电视数字接收机顶盒全国通用版", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 金星嫁接刀\nDoc: 金星牌高碳钢嫁接刀苗功能园艺盆景果树树苗芽R接刀园多林木折叠", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 金星嫁接刀\nDoc: 医用尿素霜鹤叔推荐百分之十10%手足防裂改善鸡皮尿素维e乳膏正品", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 金星嫁接刀\nDoc: 美肩神器女神直角肩告别溜滑瘦颈肩膀肉厚薄背贴改善斜方肌消肩贴", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 前挡风天飞仕\nDoc: 适用本田PCX160风挡改装前挡风板玻璃改佛沙配件加高加大送工具", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 前挡风天飞仕\nDoc: 山河令俊哲浪浪钉一次性口罩黑白色大人夏季男女创意个性印花图案", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 前挡风天飞仕\nDoc: Shimano禧玛诺XT SLX DEORE  M780 M670 M675 M610  M6000牙盘", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 丰田车叶子板\nDoc: 适用于丰田雷凌14-21款通用叶子板内衬加厚翼子板前后轮胎挡泥板", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 丰田车叶子板\nDoc: 3份包邮 千岛湖特产农家萝卜菜米羹配菜250g", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 丰田车叶子板\nDoc: 汽车清漆油漆固化剂套装亮油透明亮光金油罩光漆镜面漆上光清漆", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 奇瑞瑞麒m1配件\nDoc: 适用09-13款瑞麒M1大小包围改装10-12奇瑞瑞麟专用前铲后唇侧裙边", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 奇瑞瑞麒m1配件\nDoc: 玻璃钢座椅环形花盆休闲椅等候椅组合创意造型镂空可定制水滴石", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 奇瑞瑞麒m1配件\nDoc: 成人出口加大淋浴防水浴帽粉色洗澡加厚女款可爱双层防字母油烟", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 测量仪三角架\nDoc: 专用脚架三脚支架通用型多功能支撑测距仪手摇水平仪三脚架1.5米", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 测量仪三角架\nDoc: 扬子江 神曲消食口服液 10ml*6支/盒  厌食 , 小儿厌食症", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 测量仪三角架\nDoc: 仙芝尊灵芝粉2g/袋", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 黑色拉带皮鞋女童\nDoc: 玛克邦纳女童鞋皮鞋2021秋季新款牛皮中大童单鞋演出鞋公主鞋英伦", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 黑色拉带皮鞋女童\nDoc: 港版日本大塚制药娥罗纳英H软膏原装正品祛痘冻疮膏皮肤药膏100g", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 黑色拉带皮鞋女童\nDoc: 汽车抱枕被子两用午睡车载毯子腰靠垫靠枕空调被多功能沙发枕头", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 侘寂风沙发黑色\nDoc: 日式民宿实木沙发布艺羽绒沙发设计家用侘寂北欧现代简约客厅卡座", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 侘寂风沙发黑色\nDoc: 二手正版环境保护与可持续发展 第2版 钱易 高等教育", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 侘寂风沙发黑色\nDoc: 泰国原装进口 丽尔泰鱼露700ml泰国菜西餐调味蒸鱼酱油东南亚料理", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 電競平板鍵盤滑鼠\nDoc: 手机吃鸡神器键盘鼠标套装蓝牙王座压枪游戏手游手柄安卓适用于苹果平板ipad电竞和平小精英外设转换模拟辅助", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 電競平板鍵盤滑鼠\nDoc: 考拉美国代购 HotelGrand白羽绒500线程全面被套羽绒被保暖透气", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 電競平板鍵盤滑鼠\nDoc: 网红套袖加长款羽绒服袖头加大耐脏学生秋冬可爱全棉防污工作护袖", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 儿童内衣皂\nDoc: 德国dalli原装清洁肥皂洗衣皂宝宝儿童内衣裤皂女士姨妈皂3块装", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 儿童内衣皂\nDoc: 海尔新款小厨宝一级能效家用小型速热储水式热水宝厨房热水器6.6L", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 儿童内衣皂\nDoc: 幽兰山皮肤菌抑膏冻疮膏防冻防裂膏", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 威驰室外天线\nDoc: 改装个性旗杆外置室外信号汽车车用天线车载装饰红旗杆收音后备摆", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 威驰室外天线\nDoc: 阳江野生中大号蚝干牡蛎干蚝豉生蚝干海蛎干海蛎子干干货500g生晒", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 威驰室外天线\nDoc: 中天翡翠彩宝团购直播专拍链接A以抢拍方式购买私拍无效", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 抛边轮毂\nDoc: 改装轮毂15寸16寸17寸18寸19寸爆龟适用于GK5菱帅致享雅阁思域K7", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 抛边轮毂\nDoc: 平台简易工作台单水槽洗碗铁盆水池快餐店单盆水槽灶台厨房洗菜池", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 抛边轮毂\nDoc: 雨鞋女时尚款外穿夏秋可爱防滑加厚耐磨可加绒袜保暖水鞋雨靴中筒", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 多宁水机\nDoc: 多宁TRIM整水器GRACIA-1水素水一体机厨房卫浴日本进口 电解水", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 多宁水机\nDoc: 代缴山东有线济南烟台广电缴费菏泽威海济宁东营聊城历城区水电费", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 多宁水机\nDoc: 磨制直槽加长机用丝锥丝攻机用攻螺纹功丝铸铁丝工钻头m6m8m10m12", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 长跑护膝\nDoc: 专业护膝运动男膝盖女士跑步装备关节夏季超薄款护漆健身篮球护套", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 长跑护膝\nDoc: 一梵普拉提核心床健身房瑜伽馆器械三合一全高架床普拉提五件套", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 长跑护膝\nDoc: 鹿宝堂鹿茸血酒500ml增滋补鹿鞭壮男性劲养生阳浸泡健康否保健酒", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: discovery登山裤女士\nDoc: 户外夏季薄款女士运动登山徒步速干长裤休闲裤弹力裤透气潮流快干", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: discovery登山裤女士\nDoc: 刻印章内蒙古印章翻译 蒙文印章定制 刻蒙语印章 蒙文名章包邮", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: discovery登山裤女士\nDoc: 力康血氧仪Prince-100D医用指夹式儿童测脉搏心率家用血氧饱和仪", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 寄居蟹壳子\nDoc: 寄居蟹替换宠物壳天然大口径海边壳装饰贝壳螺迷你小活体螃蟹包邮", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 寄居蟹壳子\nDoc: 新品绑钩垫带磁绑钩神器大滑钩子钓鱼吸I垫板渔具防全垂钓用品小", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 寄居蟹壳子\nDoc: 预订Let's do Mental Maths for ages 9-10:For children learning at home", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 防水电源24v\nDoc: 防水LED开关电源220V转12V20W-600W城市亮化安防监控直流变压器", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 防水电源24v\nDoc: 磁性展示贴a4磁力贴营业执照保护套磁力奖状防护贴保护套a3证件框挂墙通用免打孔磁性墙贴广告框海报框照片框", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 防水电源24v\nDoc: PP抗菌母粒ABS防霉母粒塑料PE抗菌防霉剂PC工程料通用防霉抗菌剂", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 干味美思\nDoc: 意大利进口 味美思白威末酒葡萄酒Stock Vermouth Bianco清仓包邮", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 干味美思\nDoc: 彩虹飞蜥，树栖，500/1，宠物蜥蜴", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 干味美思\nDoc: Ferrari法拉利汽车儿童安全座椅小孩1-4岁宝宝傅里欧红色原装进口", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 定制新中式禅意实木入户玄关装饰隔断\nDoc: 新中式别墅屏风隔断墙客厅入户玄关进门遮挡卧室格栅实木镂空装饰", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 定制新中式禅意实木入户玄关装饰隔断\nDoc: 淋浴房实心挡水条钻石型一体无缝通体大理石人造石卫生间隔断阻水", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 定制新中式禅意实木入户玄关装饰隔断\nDoc: 抖音充值 抖音币2000个抖音充币音抖 抖抖充币 抖币充值 音抖冲值", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 五羊本田小公主100套缸\nDoc: 适用五本踏板WH100T-H-F-G小公主/优悦喜悦套缸GCC缸体总成羊田FM", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 五羊本田小公主100套缸\nDoc: 老G黑坑鲫鱼窝米块打窝料 鲜虾鲤草野钓饵料腥香酒香玉米菜窝米饼", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 五羊本田小公主100套缸\nDoc: 高档苏州博物馆百事合意臻选挂绳证件工牌挂绳文创礼品创意女生日", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: tcl香榭丽全能锅\nDoc: tclthTCL3.5升香榭丽全能锅（TH-1302A）", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: tcl香榭丽全能锅\nDoc: 车载蓝牙耳机单耳5.0降噪开车专用自动接听商务汽车免提电话通用", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: tcl香榭丽全能锅\nDoc: 1件1米拍20件发1卷喇叭封口垫线盒密封贴减震垫棉贴弹性垫EVA垫条", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 富光正品旗舰店保温水杯\nDoc: 富光316不锈钢保温杯镜面内胆大容量男女便携车载学生儿童水杯子", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 富光正品旗舰店保温水杯\nDoc: 舒可曼食用香草精30g/瓶 曲奇饼干蛋糕甜品增香烘焙原料", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 富光正品旗舰店保温水杯\nDoc: 营养师定制减肥餐食谱私人教练居家健身减脂瘦身监督训练计划方案", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 老品种核桃仁\nDoc: 原味核桃仁500g", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 老品种核桃仁\nDoc: 新年春节装饰透明抱抱桶礼盒烘焙雪花酥牛轧糖曲奇饼干手提包装盒", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 老品种核桃仁\nDoc: 张真源应援手工皂｜水玉暖炽｜司机与巴士｜粉丝伴手礼｜生日礼物", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 小学语文拓展阅读一年级王淞舟\nDoc: 正版包邮 小学语文拓展阅读 一1年级上册 王崧舟 配合统编本小学语文延伸读本 精选拓展美文 全国30位十大青年名师鼎力推荐YD", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 小学语文拓展阅读一年级王淞舟\nDoc: 2021新版山东及周边地区公路里程 中国公路里程地图分册系列 国家高速公路编号 新名称 新出口桩号 中国分省公路里程地图册的先河", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 小学语文拓展阅读一年级王淞舟\nDoc: DIY手工皂长方吐司大容量渲染硅胶皂模自制冷皂肥皂香皂模型磨具", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 事业单位会计试题\nDoc: 2021年事业单位编制招聘财会类财务会计类专业知识资料真题库视频", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 事业单位会计试题\nDoc: 304不锈钢加厚实心窗户把手38型铝窗外开窗拉手窗把手上翻窗拉手", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 事业单位会计试题\nDoc: 潘大侠潘建烨在线 宝宝起名成人改名公司店铺起名改名 非满意为止", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 修正伟哥\nDoc: 修正 男宝胶囊 0.3g*72粒/盒 壮阳补肾性欲淡漠阳痿滑泄腰腿酸痛肾囊湿冷精神萎靡食欲不振", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 修正伟哥\nDoc: 正版三国杀S6诸神黄昏319张卡牌含12新神将全套聚会桌面游戏卡牌", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 修正伟哥\nDoc: 54颗3W全彩舞台灯光七彩婚庆酒吧染色ay演出防水cob面光灯led帕灯", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 多功能液压冲孔机\nDoc: 液压冲孔机CH-75/80角铁槽钢三面打孔角钢打孔机液压机不锈钢冲孔", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 多功能液压冲孔机\nDoc: 欧式角柜实木美式乡村拐角柜彩绘玄关柜墙角储物收纳柜边0.46家具", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 多功能液压冲孔机\nDoc: 汽车座椅背多功能置物储物袋车内收纳垃圾袋网兜车载女神储物通用", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 木头的折床l米宽的？\nDoc: 折叠床铁床一米五木质二宽的单人床双人l床夏天午休床木板床1家用", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 木头的折床l米宽的？\nDoc: 云中鹰羽毛球耐打王球耐打7号训练比赛通用鹅毛复合头硬头羽毛球", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 木头的折床l米宽的？\nDoc: 【官方正品】NARS唇膏笔丝绒雾感唇膏笔复古口红唇线笔豆沙色", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 柜门交链\nDoc: 合页 平开 不锈钢加厚304木门橱柜门铰链衣柜小合叶五金折叠折页", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 柜门交链\nDoc: 鱼腥草破壁粉 鱼腥草粉中药面膜野生干鱼腥草干折耳根500克包邮", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 柜门交链\nDoc: 三面刃铣刀盘PT02.12J40.160.16.H7参考SMP01-160*7-K40-SN12-16", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: border饼干\nDoc: 现货 英国苏格兰BorderBiscuits奢华纯正黄油曲奇饼干4种口味", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: border饼干\nDoc: 适用于凯迪拉克XT5 XT4 XTS昂科威君越 迈锐宝XL智能汽车手表钥匙", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: border饼干\nDoc: 转转兔宝宝学步鞋活蹦乱r跳婴儿鞋绒婴儿保暖鞋 0一2软底学步鞋m", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 浙江三耀深水泵\nDoc: 不锈钢深井泵3方220V家用静音抽水机大流量潜水泵高扬程482米三相", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 浙江三耀深水泵\nDoc: 墨风适用三星209芯片SCX-4824HN 4828HN 4825 4826 2855硒鼓芯片", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 浙江三耀深水泵\nDoc: 防溺水救生手环自救神器游泳浮球大人跟屁虫包2021新款儿童充气", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 宝马e53暖风电阻\nDoc: 适用宝马5系X5空调E39暖风E53电机520风机523鼓风机525电阻530", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 宝马e53暖风电阻\nDoc: 聚氨酯TPU/台湾拜耳优得/UDS-75A10/75度TPU", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 宝马e53暖风电阻\nDoc: 重型气液增压缸 MPT80* 50/150-10/15/20-3T/5T/10吨气缸APT/CPT", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 氨基酸起泡剂 食品级\nDoc: 肌理夫人 国产氨基酸起泡剂1KG 月桂酰肌氨酸钠 天然温和洗护原料", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 氨基酸起泡剂 食品级\nDoc: 得力指纹上班打卡考勤机智能员工一体机刷脸签到机3960全自动异地打卡无线wifi门禁网络扫脸人脸识别云考勤机", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 氨基酸起泡剂 食品级\nDoc: 现货Roland罗兰 V-Combo VR-09 VR730 合成器键盘 61键音乐工作站", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: feelworld f6 plus\nDoc: FEELWORLD富威德F6PLUS导演监视器摄像机摄影显示器4K5寸稳定器显示屏", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: feelworld f6 plus\nDoc: 紫荆花漆超净味防霉无添加墙面漆 耐擦洗水性漆乳胶漆内墙涂料", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: feelworld f6 plus\nDoc: 紫光国芯DDR4 3200Hz 16g笔记本电脑内存条16G国产品牌 支持国货", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 降血脂中成药\nDoc: 10盒38.5/盒包邮】优克 降脂通脉胶囊 0.5g*24粒 化痰祛湿 活血通脉 高脂血症 高血脂药中成药 药店官方旗舰店阿里正品药", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 降血脂中成药\nDoc: 2022新版 南通小题 高中物理必修1第一册 人教版 江苏版", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 降血脂中成药\nDoc: 知府大人模拟 破解版 安卓手机游戏 免广告得奖励 无限元宝雪花银", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 游戏机放币\nDoc: 打豆豆游戏机益智投币彩票退扫码吸粉模块红蓝对战拍打双人打豆豆", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 游戏机放币\nDoc: 日本派滋露长短距梳猫咪梳子梳毛刷狗去浮毛猫狗通用排梳日常梳理", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 游戏机放币\nDoc: 韩国必品阁bibigo王饺子900g*8袋整箱cj泡菜玉米水饺蒸饺煎饺包邮", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 净面清洁面霜\nDoc: 正品面部净化焕颜素深层清洁毛孔排污按摩膏脸部补水霜美容院专用", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 净面清洁面霜\nDoc: 莲花头连接线AV音频线莲花头2RCA公对公二对二线音箱音响双色", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 净面清洁面霜\nDoc: 60宽脚手架室内楼梯过道加厚移动活动装修架子厂家直销龙门脚手架", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 女童礼服高级感拖尾\nDoc: 儿童晚礼服生日公主裙女童洋气走秀一字肩主持人高端钢琴演出服夏", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 女童礼服高级感拖尾\nDoc: 戴维德游艇manta5水上自行车电动冲浪板滑水翼板推进器水上项目", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 女童礼服高级感拖尾\nDoc: 【含答案】包邮初中新课程问题解决导学方案语文七年级下册配人教版语文课本导学方案语文七7年级下册练习册山西教育出版社", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: kfc k金\nDoc: 肯德基KFC代下单优惠劵全国通用代金券套餐单人餐汉堡薯条热狗", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: kfc k金\nDoc: 自动螺丝机夹头|螺丝夹嘴|铆钉机夹头|自动锁螺丝机配件|自动锁螺", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: kfc k金\nDoc: 三恩胶带黄色封箱胶带可定制颜色规格印刷LOGO大卷打包封口5卷装", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 新南方电烤箱商用\nDoc: 新南方烤箱商用电40C二层四盘大型鸡鸭面包蛋糕披萨电烘炉大容量", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 新南方电烤箱商用\nDoc: 佛山照明 集成吊顶led厨卫灯平板灯30*30*60面板灯铝扣板嵌入式灯", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 新南方电烤箱商用\nDoc: 指弹中国泰莱Taylor814CE V CLASS 814e民谣弹唱指弹电箱木吉他", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 臭臭螺盲盒\nDoc: ㊙嘟嘟螺冲泡型速食螺蛳粉柳州正宗特产袋装螺狮粉螺丝粉盲盒包邮", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 臭臭螺盲盒\nDoc: 余姚亚泰 TDE-0301 指针式温控仪 塑料机烘箱温控仪 LC-48 K型", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 臭臭螺盲盒\nDoc: airpods真假耳机鉴定查询真伪蓝牙耳机二代三代Airpodspro3验证", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 皮肤康清洗液\nDoc: 兆春牌皮肤康清皮肤康洗液外用私处止痒洗剂西安康春正品", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 皮肤康清洗液\nDoc: 钢化玻璃门锁里外推拉单门双开免打孔锁具店铺免开孔不锈钢无框锁", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 皮肤康清洗液\nDoc: 帕尼尼2016-17 FIFA365球星卡147马塞洛", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 学习型无线遥控开关\nDoc: 学习型红外线遥控插座 智能型 节能 安全 交流关机 B-T51/56", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 学习型无线遥控开关\nDoc: 思创科技1106 防尘滤棉滤棉适合 1060 1080系列面罩", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 学习型无线遥控开关\nDoc: 实木床头柜简约现代2022款储物柜无线智能充电卧室小型床边收纳柜", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 华帝 不锈钢  聚能灶\nDoc: 华帝JZT-BH910B燃气灶聚能鸳鸯灶家用大火力天然液化煤气炉具910b", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 华帝 不锈钢  聚能灶\nDoc: 迪卡侬普拉提圈瑜伽环健身器材初学者初学者开背瘦大腿魔力圈EYAG", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 华帝 不锈钢  聚能灶\nDoc: 奔驰acc自适应巡航原厂c级e级a级gle/glc/glb/s级23p自动辅助驾驶", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 假发棕色\nDoc: 假发女长发全头套式空气刘海黑长直日常lolita造型自然仿真假发套", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 假发棕色\nDoc: 无痕氧气内衣女睡眠运动舒适抹胸零束缚裸感孕期文胸罩背心式薄款", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 假发棕色\nDoc: 奔驰高尔夫球包水晶料订制款男士球袋golf脚架包多孔隐藏式支架包", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 全球探險衝衝衝\nDoc: 全球探险冲冲冲Go Jetters麻烦大师小飞船短音乐亮光男孩玩具礼物", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 全球探險衝衝衝\nDoc: 3把以上包邮扇形划规 合金圆规 弹簧圆规 木工划线器 工业用圆规", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 全球探險衝衝衝\nDoc: 天虹牌盐焗巴旦木仁2400g袋巴达木扁桃仁干果坚果零食", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 小葵花多种维生素\nDoc: 小葵花针叶樱桃维生素c儿童小孩吃的维生素c营养", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 小葵花多种维生素\nDoc: 正厂正品 东南汽车 新款蓝瑟/新款菱悦V3车门总成 左右后门总成", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 小葵花多种维生素\nDoc: 天然鬃毛刷子扫把扫把不掉毛不起静电床扫 扫床除尘刷尘扫包邮", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 甘肃贝贝南瓜\nDoc: 正宗贝贝南瓜板栗味小南瓜新鲜老南瓜宝宝辅食香甜软糯整箱10斤装", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 甘肃贝贝南瓜\nDoc: 我爱火辣小子百人忆宁乡花猪肉伴手礼即食肉干湖南特产大礼包零食", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 甘肃贝贝南瓜\nDoc: 适用联想H15蓝牙耳帽H15Pro耳机硅胶套TWS耳塞套耳堵耳膜替换配件", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 男孩闹钟\nDoc: 智能AI小闹钟学生用起床神器2021新款儿童男女孩宿舍卧室强力叫醒", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 男孩闹钟\nDoc: 【精品棒球】日本进口Rawlings Hyper左右投兼用型棒垒球高端手套", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 男孩闹钟\nDoc: 好看的手提电脑包笔记本内胆包时尚可爱女15.6寸适用苹果macbook air13pro16寸联想小新华为14戴尔15惠普小米", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 电动车充电器 锂电 20串72v\nDoc: 72V锂电池电瓶车充电器三元20串84V2A5A8A10A快充锂电池充电器72V", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 电动车充电器 锂电 20串72v\nDoc: 四川眉山冰箱贴三苏祠旅游特产纪念品来图定制冰箱贴礼品伴手礼物", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 电动车充电器 锂电 20串72v\nDoc: 美国 Oster奥士达电剪A6 专业美容高端三速宠物电推剪 猫咪狗狗", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 304钢丝强光节能太阳灯\nDoc: 阿雷佐led碘钨灯超亮防水工地灯夜市地摊节能太阳灯1000w投光灯", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 304钢丝强光节能太阳灯\nDoc: 办公电脑文件cad图纸u盘加密软件数据安全防外发泄密拷贝复制删除", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 304钢丝强光节能太阳灯\nDoc: 2015 MAVIC Crossmax SL PRO LTD WTS限量版山地轮组 真空胎", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: r3轮组\nDoc: ULTEGRA UT6800轮组 新款RS500  11速公路轮组 UT轮组", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: r3轮组\nDoc: 三头 铝合金泻血笔放血笔排瘀连续采血针笔点刺血针送100只采血针", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: r3轮组\nDoc: 茶台桶 茶台饮水桶 茶几茶具净水器饮水小联通 纯净水矿泉水桶9升", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 胜肽口服液\nDoc: 悠蜜 澳洲Vierra胜肽亢糖 白藜 芦醇 美 肌饮 胶原蛋白 焕肤", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 胜肽口服液\nDoc: 罗丝杆连接螺母加长工具长螺母定做机床对接双头螺帽圆柱组合耐用", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 胜肽口服液\nDoc: 捷达宝来速腾迈腾CC高尔夫6高7探歌探岳VA3VS5VS7探影 中心轮毂盖", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 喵小妖软籽梅子\nDoc: 云南软籽梅子苗小妖软籽梅子话梅子蜜饯果干儿童喵孕妇零食小妖", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 喵小妖软籽梅子\nDoc: 悦可婷 左炔诺孕酮炔雌醚片 6片/盒 长效避孕药女性长期避孕紫竹左诀诺", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 喵小妖软籽梅子\nDoc: 304不锈钢卡扣刺绳卡子卡夹滚地龙铁丝网卡扣线卡拍一件就是10个", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 电话声音放大器\nDoc: 电话铃声放大器闪光铃座机扩音响铃助响器振铃扩声器RSP-AC220V", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 电话声音放大器\nDoc: 农用电动三轮车工地拉砖自卸翻斗车工程建筑混凝土爬坡运输载重王", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 电话声音放大器\nDoc: 雅莹童装女童专柜正品精美上衣VECAC5315a吊牌价599", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 大宇角膜配件\nDoc: 大宇角磨机转子81007N齿轮输出轴碳刷机壳定子原厂头壳8-100A配件", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 大宇角膜配件\nDoc: CHRISTINA大提琴儿童初学者专业级手工演奏级学生成人实木入门C04", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 大宇角膜配件\nDoc: 2021新款喇嘛僧帽冬季毛呢加绒保暖帽", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 恶魔蟹\nDoc: 印尼奥氏后相手蟹宠物蟹观赏蟹桌面小宠物公母可选", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 恶魔蟹\nDoc: 10个40*50cm过滤袋纱布袋煮汤料袋纯棉煲汤隔渣袋中药袋料包大号", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 恶魔蟹\nDoc: 云南云岭远程台机位租赁天文台设备托管服务", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 大门灯笼一对\nDoc: 大红灯笼户外防水新年节日婚庆绒布百家姓氏广告大门阳台搬家灯笼", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 大门灯笼一对\nDoc: 红双喜底板乒乓球底板劲极7兵乓球拍板diy碳素球板狂飙n301专业级", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 大门灯笼一对\nDoc: 工业冷水机模具冷却低温恒温注塑控温风冷式水箱循环制冷冰水机组", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 涂色书小手画画蒙纸版\nDoc: 奥特曼画画本恐龙简笔画临摹填色涂色书图画本儿童玩具蒙纸学绘画", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 涂色书小手画画蒙纸版\nDoc: 二手江苏专转本考试大作战&mdash;&mdash;计算机基础真题解析 同方教育 东南大学出版社 9787564166557书大学教材", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 涂色书小手画画蒙纸版\nDoc: 金潮货车防水篷布防晒油布加厚防雨布户外遮阳遮雨塑料帆布金牛款", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 立杆式电子秤\nDoc: 旺丰电子秤商用台秤30公斤高精度市场称重家用卖菜充电小型电子称", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 立杆式电子秤\nDoc: 包塑钢丝绳晾衣绳牵引绳大棚压膜绳养殖绳拉线绳压线绳水泵吊绳", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 立杆式电子秤\nDoc: 2020甩卖工厂直销 德州扑克桌 百家乐桌子 拉斯维加斯活动桌", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 桌布防油防水\nDoc: 原创定制北欧轻奢茶几电视柜欧式美式高档奢华餐桌布艺卡通吧台布", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 桌布防油防水\nDoc: 德国博世G7100壁挂炉24KW", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 桌布防油防水\nDoc: 莱仕德屋顶隔热涂料楼顶外墙防水防晒材料彩钢瓦反射隔热降温油漆", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: superb工具\nDoc: 保忠SUPER-B 自行车工具 方孔中轴拆装套筒扳手 TB-1065 花键中轴", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: superb工具\nDoc: 大酒神外设店 250kg 电脑椅家用办公椅游戏电竞椅可躺椅主播椅", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: superb工具\nDoc: 景德镇文革厂货瓷器 人民瓷厂寒窑款手绘青花盘龙浪花海水纹盖碗", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 防臭脚袋子\nDoc: 试鞋袋防水塑料试穿脚裂鞋一次性店脚套长筒袜子足套袜套护理套鞋", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 防臭脚袋子\nDoc: 中新 盐酸吗啉胍片100片流感病毒疱疹病毒抗病毒药 病毒灵片吗崊胍吗啉咪胍盐酸吗啉双胍盐酸马林瓜呱片人用药 病毒灵人用 abob药", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 防臭脚袋子\nDoc: 多杆SS低温北提烘干提摩西草嫩杆兔子豚鼠龙猫牧草香甜500克包邮", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 钢丝绳格栅\nDoc: 主动防护网钢丝绳网D0/08/300绞索网格栅网s0/2.2/50厂家现货安装", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 钢丝绳格栅\nDoc: 幸福玛丽儿童学步鞋加绒棉鞋男宝宝防滑加厚女童冬宝宝鞋防水皮面", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 钢丝绳格栅\nDoc: 原装Harman Kardon哈曼卡顿JBL音响电源19V3A翡翠水晶音箱适配器", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 北京同仁堂大黄去丸\nDoc: 满3件包邮】同仁堂 大黄蛰虫丸 60g*1瓶/盒CF", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 北京同仁堂大黄去丸\nDoc: 防盗门保护膜除膜剂除胶清洗剂家用墙面瓷砖液宝黏胶清洁剂去除剂", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 北京同仁堂大黄去丸\nDoc: 太平鸟两件式风衣外套女2021春秋新款中长款复古英伦风衣女小个子", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 小鱼泡泡机\nDoc: 抖音同款泡泡机玩具儿童手动泡泡枪网红女孩少女心吹泡泡补充液器", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 小鱼泡泡机\nDoc: 铁艺鲜花桶欧式创意花器干花复古铁皮桶醒花桶花店插花桶装饰摆件", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 小鱼泡泡机\nDoc: 眼镜架托摆件可爱创意家用办公室桌面眼镜店道具支架柜台装饰收纳", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 食用保鲜膜\nDoc: 保鲜膜大卷家用经济装食品断点式饭店用耐高温商用面膜美容院专用", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 食用保鲜膜\nDoc: 小彩盒红糖姜茶多口味红糖水大姨妈送女友小袋装调理黑糖姜枣茶女", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 食用保鲜膜\nDoc: 手指拔罐器真空拔罐器家用抽气式拔火罐配件拨罐器抽气x枪大把打", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 爱的教育人民教育出版社\nDoc: 爱的教育 正版原著完整版六年级上册必读的课外书快乐读书吧上 意大利亚米契斯著 青少版老师推荐上学期小学课外阅读书籍", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 爱的教育人民教育出版社\nDoc: 海尔探路者SWR-T321边刷T320/T325过滤网抹布电池扫地机器人配件", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 爱的教育人民教育出版社\nDoc: 百乐纤扬dpn70老款钢笔", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: adidas纸袋子\nDoc: Adidas 专柜 包装纸袋 手提袋 一次性纸袋售出概不退换", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: adidas纸袋子\nDoc: 买二送一酷特利云南高原玛卡片玛咖精片吗咖成人用品男性30g", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: adidas纸袋子\nDoc: 包邮密宗佛像丝绸绣唐卡织锦画金丝刺绣文昌帝君 佛教道教挂画", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 75敲击扳手\nDoc: 重型凸型敲击梅花扳手24/27/30/32/34/36/41/46/50/55/60", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 75敲击扳手\nDoc: 包邮美甲沐足浴足疗美容美睫修手美足修脚美脚按摩洗脚大小子母凳", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 75敲击扳手\nDoc: ins新款潮牌儿童宝宝小袖套 毛绒长短男女婴儿手套卡通护袖袖套", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 汽车安装服务\nDoc: 多功能方向盘定速巡航胎压倒车影像电动折叠安装服务安装工时费", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 汽车安装服务\nDoc: 施蒂芙 SETFV 正品 光感无暇水光气垫CC保湿 控油  买一送二替换", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 汽车安装服务\nDoc: 谷田稻香东北寒地珍珠大米5kg大米10斤装五常稻香米一级粳米新米", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 康乃馨编织\nDoc: 康乃馨花束毛线钩针图解仿真花教程DIY手工制作礼品摆件装饰", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 康乃馨编织\nDoc: 负压风机排风扇配件工业排风扇电机马达扇叶风叶皮带轮铝轮叶托角", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 康乃馨编织\nDoc: 肺活量吹嘴一次性吹嘴中学生体测通用型肺活量检测仪加厚吹嘴测试", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 剑三师徒值\nDoc: 剑网3奇遇代练剑三援助韶华故朝暮宝箱少年行前置点赞奇遇一心值", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 剑三师徒值\nDoc: /22/30/35/40/45/50z长15宽免打孔厨房置物架调料架壁挂收纳架子", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 剑三师徒值\nDoc: 海康微影LE10小红外热成像夜视仪高清户外热感应热搜望远镜热像仪", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 雷炎饵料\nDoc: 雷焱红鲫黄鲫水钓鱼小药野钓鲫鲤鱼窝料添加剂黑坑鲤鱼饵料诱鱼剂", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 雷炎饵料\nDoc: 医用氧气瓶流量表登月浮标式氧气吸入器10升40升配件湿化瓶减压阀", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 雷炎饵料\nDoc: 德国进口美工刀壁纸刀大号刀架墙纸裁纸刀大码金属不锈钢开箱刀", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 清理地毯\nDoc: 地毯清洁剂干洗剂免洗强力去污非神器布艺沙发洗地毯清洗剂免水洗", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 清理地毯\nDoc: 美滋滋姜母红糖八宝茶12包装1120g玫瑰酱宁夏特产枸杞红枣桂圆茶", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 清理地毯\nDoc: 2021新款潮自制涂鸦diy材料包亚麻手提袋大容量拉链帆布包麻布包", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 海马骑士汽车减震器胶垫后\nDoc: 适用于海马7骑士S7避震器缓冲块前后机缓冲胶S7后悬挂摆臂缓冲胶", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 海马骑士汽车减震器胶垫后\nDoc: 多乐士A923美时丽内墙乳胶漆17L", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 海马骑士汽车减震器胶垫后\nDoc: 尼龙网袋100目80目晒牛干巴火腿腊肉防苍蝇透气加密加厚", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 妇人大全良方\nDoc: 正版包邮妇人良方大全-中医女科十大名著", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 妇人大全良方\nDoc: gogoyoga 短款运动短袖T恤女跑步带胸垫交叉美背瑜伽紧身健身上衣", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 妇人大全良方\nDoc: 特价裱白色pvc软磁片橡胶磁板白板广告喷绘教学办公1米*600*0.5mm", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 奥尔良味香肠调理\nDoc: 畅之味香肠调料五组合香肠调料台湾风味黑胡椒香辣蒜香新奥尔良", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 奥尔良味香肠调理\nDoc: 爆款：福人牌葡萄糖酸钙锌口服容液10ml. 24支多层吸收多层补", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 奥尔良味香肠调理\nDoc: 草帽崔 勾线兼毫工笔画白描衣纹花鸟国画学生初学专业级毛笔批发", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 飞龙圣取暖桌\nDoc: 飞龙圣家用电暖桌客厅智能发热节能取暖桌电热烤火桌电炉子电烤炉", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 飞龙圣取暖桌\nDoc: 新品铁将军汽车轮胎压监测器无线内置太阳能高精度通用监测仪TPMS", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 飞龙圣取暖桌\nDoc: A类新疆棉全面水洗棉床单100纯棉居家单双人冬季床单床上用品单件", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 孕期胎教书籍全套\nDoc: 妊娠分娩孕产育儿大全 女性孕期准备教程孕妇看的书籍怀孕书籍月子餐孕妇42天营养食谱大全十月怀胎知识百科全书育儿胎教产后护理", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 孕期胎教书籍全套\nDoc: Naturehike亘air6.3棉布充气帐篷双人户外自驾游野营便携轻奢露营", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 孕期胎教书籍全套\nDoc: 原装库存未拆三星2.5寸160G笔记本电脑硬盘IDE并口老式工业打复印", "labels": {"en": ["not match"], "zh": ["不匹配"]}}
+{"sentences": "Query: 意可可 ecoco 旗舰店鞋架\nDoc: 浴室拖鞋架壁挂式挂墙壁上厕所鞋子收纳架神器卫生间置物架免打孔", "labels": {"en": ["match"], "zh": ["匹配"]}}
+{"sentences": "Query: 意可可 ecoco 旗舰店鞋架\nDoc: 喬奈奇仕灵 官方正品甲周甲沟甲炎息肉芽流脓嵌甲矫正喬奈齐仕灵", "labels": {"en": ["not match"], "zh": ["不匹配"]}}

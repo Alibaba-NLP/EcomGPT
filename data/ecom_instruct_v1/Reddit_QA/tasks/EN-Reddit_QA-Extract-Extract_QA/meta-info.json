@@ -1,0 +1,6 @@
+{
+    "task": "EN-Reddit_QA-Extract-Extract_QA",
+    "defi": "extractive question answering",
+    "test_prompt": {"instruction": "### Instruction:\n{sentences}\nExtract spans from context to answer the question. \n### Response:"},
+    "label_sep": ", "
+}

@@ -1,0 +1,9 @@
+{
+    "task": "EN-ABSA-CLS-review_topic_category",
+    "defi": "review topic category",
+    "test_prompt1": {"instruction": "输入: {sentences}\n分类: {label_set}\n输出:"},
+    "test_prompt": {"instruction": "### Instruction:\n{sentences}\nSelect category for the above sentences from the following topics: {label_set}. \n### Response:"},
+    "label_set": {"default":["Food", "Service", "Price", "Ambience", "Anecdotes/Miscellaneous"]},
+    "label_key": "default",
+    "label_sep": ", "
+}

@@ -1,0 +1,19 @@
+{
+    "task": "ZH-OpenBG_Align-CLS-item_align",
+    "defi": "product item match",
+    "provider": "395566",
+    "version": "1",
+    "label_set": {
+        "en": [
+            "not same",
+            "same"
+        ],
+        "zh": [
+            "不相同",
+            "相同"
+        ]
+    },
+    "label_key": "en",
+    "test_prompt": {"instruction": "### Instruction:\n{sentences}\nDetermine whether the item 1 and item 2 refer to the same product. Candidate labels: {label_set}. \n### Response:"},
+    "label_sep": ", "
+}

@@ -1,0 +1,22 @@
+{
+    "task": "EN-Lenovo-Condition_Extract-Condition_Extract",
+    "defi": "entity span detection",
+    "version": "1",
+    "label_set": {
+        "en": [
+            "Attribute",
+            "Brand", 
+            "Component",
+            "Product"
+          ],
+          "cn": [
+            "商品属性",
+            "商品品牌",
+            "组件",
+            "商品名"
+          ]
+    },
+    "label_key": "en",
+    "label_sep": ", ",
+    "test_prompt": {"instruction": "### Instruction:\n{sentences}\nDetect all named entity about {label_set} in the sentence. \n### Response:"}
+  }

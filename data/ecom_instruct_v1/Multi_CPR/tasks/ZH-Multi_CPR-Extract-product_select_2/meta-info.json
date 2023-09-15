@@ -1,0 +1,6 @@
+{
+    "task": "ZH-Multi_CPR-Extract-product_select_2",
+    "defi": "product select",
+    "test_prompt": {"instruction": "### Instruction:\nSelect documents from the candidates that best match the product query.\n{sentences}\nOutput the document content only.\n### Response:"},
+    "label_sep": ", "
+}

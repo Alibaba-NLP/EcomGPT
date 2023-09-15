@@ -1,0 +1,9 @@
+{
+    "task": "ZH-OpenBG_Align-Generate-title_generate",
+    "defi": "product title generation",
+    "test_prompt": {"instruction": "### Instruction:\n{sentences}\nGenerate a product title based on the above attribute information. \n### Response:"},
+    "train_prompt": {"instruction": "Generate a product title based on the attribute information.",
+            "input": "{sentences}",
+            "output": "{spans}"},
+    "label_sep": ", "
+}

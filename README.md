@@ -40,7 +40,7 @@ pip install -r requirement.txt
 
 
 ## 💻 Model
-The EcomGPT (7b1) will be available at [*ModelScope*](https://github.com/modelscope). 
+The EcomGPT (7b1) is available at [*ModelScope*](https://www.modelscope.cn/models/damo/nlp_ecomgpt_multilingual-7B-ecom/summary). 
 
 ## 📚 Dataset (EcomInstruct)
 
@@ -88,7 +88,7 @@ python eval.py -tf ./test_tasks.txt -m [model name or path] -sn [result file nam
 
 ## 🔥 TODO
 
-- Open Source Weight of EcomGPT
+- Open Source Weight of EcomGPT ✅
 
 ## 📄 Citation
 

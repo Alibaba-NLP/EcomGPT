@@ -1,0 +1,13 @@
+{
+    "task": "ZH-MEPAVE-Condition_Extract-attribute_value_detection",
+    "defi": "attribute value detection",
+    "version": "1",
+    "label_set": {
+      "cn": [
+        "下摆类型", "厚度", "口袋类型", "图案", "工艺", "开口深度", "开衩类型", "弹性", "形状", "材质", "版型", "腰型", "袖型", "袖长", "裙长", "裤型", "裤长", "适用季节", "闭合方式", "靴筒高度", "鞋头款式", "鞋帮高度", "鞋跟高度", "领型", "颜色", "风格"
+      ]
+    },
+    "label_key": "cn",
+    "label_sep": ", ",
+    "test_prompt": {"instruction": "### Instruction:\n{sentences}\nDetect all attribute value about {label_set} in the sentence. \n### Response:"}
+  }
