@@ -46,7 +46,7 @@ def generate_prompts(p, model, tokenizer, gpu=1, prompt_length=256, answer_lengt
 
 def eval(args):
     base_save_dir = args.base_save_dir
-    datetime_str = datetime.now().strftime("%Y%m%d-%H%M-%s")
+    datetime_str = datetime.now().strftime("%Y%m%d-%H%M-%S")
     if "checkpoint" in args.model_name_or_path:
         model_dir, ckp = os.path.split(os.path.normpath(args.model_name_or_path))
         m_str = os.path.join(os.path.basename(model_dir), ckp)
