@@ -16,7 +16,7 @@ Repo for [*EcomGPT: Instruction-tuning Large Language Models with Chain-of-Task 
     <img src="IMG/method.jpg" width="60%" height="auto" />
 </div>
 
-## 💡 Perfomance
+## 💡 Performance
 
 We perform a human evaluation on EcomGPT and ChatGPT using 12 E-commerce held-out datasets. EcomGPT outperforms or tied ChatGPT on 12 datasets.
 
